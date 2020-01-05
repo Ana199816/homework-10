@@ -24,5 +24,5 @@ If they choose "No", the html page is generated with all the employees created.
 See below for an example of the prompts in the command line.
 
 # Screenshots 
- <img src="images/capture33.png">
- <img src="images/capture22.png">
+ <img src="img/capture33.png">
+ <img src="img/capture22.png">
