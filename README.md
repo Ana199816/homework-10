@@ -3,7 +3,7 @@
 # Description
 The user is able to enter information about different employees to build a team profile. The team profile is generated in an html file and displays each team member as a card with their name, role, ID, email, and other information specific to their role.
 # Links 
-https://github.com/Ana199816/homework-10 - github
+https://github.com/annasuvvac/homework-10 - github
  https://annasuvvac.github.io/homework-10/  - website
 
 # Usage
